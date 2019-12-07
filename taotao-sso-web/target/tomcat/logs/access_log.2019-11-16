@@ -1,0 +1,6 @@
+127.0.0.1 - - [16/Nov/2019:16:07:52 +0800] "GET /user/check/zhangsan/1 HTTP/1.1" 200 49 http-bio-8088-exec-1 667
+127.0.0.1 - - [16/Nov/2019:16:27:46 +0800] "GET /user/register HTTP/1.1" 405 1045 http-bio-8088-exec-3 6
+127.0.0.1 - - [16/Nov/2019:16:27:49 +0800] "POST /user/register HTTP/1.1" 200 96 http-bio-8088-exec-5 24
+127.0.0.1 - - [16/Nov/2019:16:27:50 +0800] "POST /user/register HTTP/1.1" 200 96 http-bio-8088-exec-7 4
+127.0.0.1 - - [16/Nov/2019:16:29:31 +0800] "POST /user/register HTTP/1.1" 200 96 http-bio-8088-exec-9 9
+127.0.0.1 - - [16/Nov/2019:16:29:32 +0800] "POST /user/register HTTP/1.1" 200 96 http-bio-8088-exec-1 4

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.solr.client.solrj.SolrServer"/>
+<fullyQualifiedTypeName name="org.apache.solr.client.solrj.impl.HttpSolrServer"/>
+<fullyQualifiedTypeName name="org.apache.solr.common.SolrDocumentList"/>
+<fullyQualifiedTypeName name="org.apache.solr.common.SolrDocument"/>
+<fullyQualifiedTypeName name="org.springframework.messaging.Message"/>
+</qualifiedTypeNameHistroy>
